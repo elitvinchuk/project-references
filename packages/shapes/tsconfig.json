@@ -1,14 +1,7 @@
 {
+  "extends": "../../tsconfig-base.json",
   "compilerOptions": {
-    "composite": true,
-    "declaration": true
-  },
-  "include": [
-    "index.ts",
-    "complex/index.ts",
-    "simple/*.ts"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+    "outDir": "../../lib/shapes",
+    "rootDir": "."
+  }
 }
