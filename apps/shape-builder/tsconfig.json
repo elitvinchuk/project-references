@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5"
+  },
+  "references": [{
+    "path": "../../packages/shapes/"
+  }],
+  "exclude": [
+    "node_modules"
+  ]
+}

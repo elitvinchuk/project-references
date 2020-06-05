@@ -1,0 +1,11 @@
+{
+  "references": [
+    {
+      "path": "apps/shape-builder"
+    },
+    {
+      "path": "packages/shapes"
+    }
+  ],
+  "files": []
+}

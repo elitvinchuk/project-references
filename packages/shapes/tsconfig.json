@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true
+  },
+  "include": [
+    "index.ts",
+    "complex/index.ts",
+    "simple/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

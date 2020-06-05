@@ -1,0 +1,7 @@
+{
+  "name": "@monorepo/app1",
+  "version": "0.0.1",
+  "dependencies": {
+    "@monorepo/shapes": "^0.0.1"
+  }
+}
